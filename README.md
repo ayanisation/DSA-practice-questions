@@ -30,3 +30,12 @@
 
 - [p1_reverseList](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1)
 - [p2_reverseListInGroups](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1)
+- [p3_detectLoop](https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1)
+- [p4_deleteLoop](https://practice.geeksforgeeks.org/problems/remove-loop-in-linked-list/1)
+- [p5_removeDuplicatesSorted](https://practice.geeksforgeeks.org/problems/remove-duplicate-element-from-sorted-linked-list/1#)
+- [p6_removeDuplicatesUnsorted](https://practice.geeksforgeeks.org/problems/remove-duplicates-from-an-unsorted-linked-list/1)
+- [p7_addOneToList](https://practice.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/1)
+- [p8_addNumbersAsLinkedLists](https://practice.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-lists/1)
+- [p9_intersectionOfSortedLists](https://practice.geeksforgeeks.org/problems/intersection-of-two-sorted-linked-lists/1#)
+- [p10_intersectionPointOfLists](https://practice.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1)
+
