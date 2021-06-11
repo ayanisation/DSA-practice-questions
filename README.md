@@ -18,3 +18,15 @@
 - [p13_kthSmallestNumber](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/kth-smallest-number-again-2/)
 - [p14_kthElementInTwoArrays](https://practice.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1)
 - [p15_allocateMinPages](https://practice.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1#)
+- [p16_EKO](https://www.spoj.com/problems/EKO/)
+- [p17_arithmeticNumber](https://practice.geeksforgeeks.org/problems/arithmetic-number2815/1#)
+- [p18_smallestFactorial](https://practice.geeksforgeeks.org/problems/smallest-factorial-number5929/1#)
+- [p19_rotiPrata](https://www.spoj.com/problems/PRATA/)
+- [p20_doubleHelix](https://www.spoj.com/problems/ANARC05B/)
+- [p21_inversionCount](https://practice.geeksforgeeks.org/problems/inversion-of-array-1587115620/1#)
+
+
+## Linked List
+
+- [p1_reverseList](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1)
+- [p2_reverseListInGroups](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1)

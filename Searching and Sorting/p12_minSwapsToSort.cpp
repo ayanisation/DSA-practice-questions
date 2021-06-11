@@ -36,7 +36,7 @@ int main(){
     while(t--){
         int n,i;
         cin >> n;
-        vector<ll>nums(n);
+        vector<int>nums(n);
         loop(i,0,n,1);
         cin >> nums[i];
         Solution ob;
