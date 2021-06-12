@@ -38,4 +38,7 @@
 - [p8_addNumbersAsLinkedLists](https://practice.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-lists/1)
 - [p9_intersectionOfSortedLists](https://practice.geeksforgeeks.org/problems/intersection-of-two-sorted-linked-lists/1#)
 - [p10_intersectionPointOfLists](https://practice.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1)
-
+- [p11_checkCircular](https://practice.geeksforgeeks.org/problems/circular-linked-list/1)
+- [p12_mergeSortList](https://practice.geeksforgeeks.org/problems/sort-a-linked-list/1#)
+- [p13_findMiddle](https://practice.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1#)
+- [p14_splitCircularListInTwo](https://practice.geeksforgeeks.org/problems/split-a-circular-linked-list-into-two-halves/1#)
