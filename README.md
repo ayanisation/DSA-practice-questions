@@ -53,3 +53,18 @@
 - [p23_segregateEven&Odd](https://practice.geeksforgeeks.org/problems/segregate-even-and-odd-nodes-in-a-linked-list5035/1)
 - [p24_nthNodeFromLast](https://practice.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1)
 - [p25_quickSortList](https://practice.geeksforgeeks.org/problems/quick-sort-on-linked-list/1)
+
+
+## Binary Tree
+
+- [p01_levelOrderTraversal](https://practice.geeksforgeeks.org/problems/level-order-traversal/1)
+- [p02_reverseLevelOrderTraversal](https://practice.geeksforgeeks.org/problems/reverse-level-order-traversal/1)
+- [p03_heightOfTree](https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1#)
+- [p04_diameterOfTree](https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1#)
+- [p05_leftViewOfTree](https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1#)
+- [p06_rightViewOfTree](https://practice.geeksforgeeks.org/problems/right-view-of-binary-tree/1)
+- [p07_topViewOfTree](https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1#)
+- [p08_BottomViewOfTree](https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1)
+- [p09_zigzagTraversal](https://practice.geeksforgeeks.org/problems/zigzag-tree-traversal/1)
+- [p10_checkForBalancedTree](https://practice.geeksforgeeks.org/problems/check-for-balanced-tree/1#)
+- [p11_boundaryTraversal](https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1#)
