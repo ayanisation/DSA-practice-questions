@@ -68,3 +68,6 @@
 - [p09_zigzagTraversal](https://practice.geeksforgeeks.org/problems/zigzag-tree-traversal/1)
 - [p10_checkForBalancedTree](https://practice.geeksforgeeks.org/problems/check-for-balanced-tree/1#)
 - [p11_boundaryTraversal](https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1#)
+- [p12_treeToDoublyList](https://practice.geeksforgeeks.org/problems/binary-tree-to-dll/1#)
+- [p13_binaryTreeToSumTree](https://practice.geeksforgeeks.org/problems/transform-to-sum-tree/1#)
+- [p14_buildTreeFromInorder&Preorder](https://practice.geeksforgeeks.org/problems/construct-tree-1/1#)
