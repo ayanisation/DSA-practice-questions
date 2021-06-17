@@ -1,6 +1,5 @@
 # Problem Statements(In Order)
 
-
 ## Searching and Sorting
 
 - [p01_searchRotated](https://leetcode.com/problems/search-in-rotated-sorted-array/)
@@ -24,7 +23,6 @@
 - [p19_rotiPrata](https://www.spoj.com/problems/PRATA/)
 - [p20_doubleHelix](https://www.spoj.com/problems/ANARC05B/)
 - [p21_inversionCount](https://practice.geeksforgeeks.org/problems/inversion-of-array-1587115620/1#)
-
 
 ## Linked List
 
@@ -54,7 +52,6 @@
 - [p24_nthNodeFromLast](https://practice.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1)
 - [p25_quickSortList](https://practice.geeksforgeeks.org/problems/quick-sort-on-linked-list/1)
 
-
 ## Binary Tree
 
 - [p01_levelOrderTraversal](https://practice.geeksforgeeks.org/problems/level-order-traversal/1)
@@ -71,3 +68,12 @@
 - [p12_treeToDoublyList](https://practice.geeksforgeeks.org/problems/binary-tree-to-dll/1#)
 - [p13_binaryTreeToSumTree](https://practice.geeksforgeeks.org/problems/transform-to-sum-tree/1#)
 - [p14_buildTreeFromInorder&Preorder](https://practice.geeksforgeeks.org/problems/construct-tree-1/1#)
+- [p15_checkForSumTree](https://practice.geeksforgeeks.org/problems/sum-tree/1)
+- [p16_leafsAtSameLevel](https://practice.geeksforgeeks.org/problems/leaf-at-same-level/1)
+- [p17_checkForDuplicates](https://practice.geeksforgeeks.org/problems/duplicate-subtree-in-binary-tree/1)
+- [p18_checkMirrorTree](https://practice.geeksforgeeks.org/problems/check-mirror-in-n-ary-tree1528/1)
+- [p19_sumOfLongestPathFromRoot](https://practice.geeksforgeeks.org/problems/sum-of-the-longest-bloodline-of-a-tree/1)
+- [p20_lowestCommonAncestor](https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1)
+- [p21_distanceBetween2Nodes](https://practice.geeksforgeeks.org/problems/min-distance-between-two-given-nodes-of-a-binary-tree/1#)
+- [p22_findAllDuplicateSubtrees](https://practice.geeksforgeeks.org/problems/duplicate-subtrees/1#)
+- [p23_isomorphicTree](https://practice.geeksforgeeks.org/problems/check-if-tree-is-isomorphic/1)
