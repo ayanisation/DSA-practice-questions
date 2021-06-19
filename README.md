@@ -84,3 +84,8 @@
 - [p28_convertToBST](https://practice.geeksforgeeks.org/problems/binary-tree-to-bst/1)
 - [p29_findKthLargest](https://practice.geeksforgeeks.org/problems/kth-largest-element-in-bst/1#)
 - [p30_findKthSmallest](https://practice.geeksforgeeks.org/problems/find-k-th-smallest-element-in-bst/1#)
+- [p31_pairsIn2BSTWithGivenSum](https://practice.geeksforgeeks.org/problems/brothers-from-different-root/1#)
+- [p32_countNodesThatLieInGivenRange](https://practice.geeksforgeeks.org/problems/count-bst-nodes-that-lie-in-a-given-range/1#)
+- [p33_createTreeFromPreorder](https://practice.geeksforgeeks.org/problems/preorder-to-postorder4423/1#)
+- [p34_checkForDeadEnd](https://practice.geeksforgeeks.org/problems/check-whether-bst-contains-dead-end/1#)
+- [p35_findLargestBST](https://practice.geeksforgeeks.org/problems/largest-bst/1#)
