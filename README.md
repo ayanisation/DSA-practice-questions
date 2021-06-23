@@ -89,3 +89,18 @@
 - [p33_createTreeFromPreorder](https://practice.geeksforgeeks.org/problems/preorder-to-postorder4423/1#)
 - [p34_checkForDeadEnd](https://practice.geeksforgeeks.org/problems/check-whether-bst-contains-dead-end/1#)
 - [p35_findLargestBST](https://practice.geeksforgeeks.org/problems/largest-bst/1#)
+
+## Greedy
+
+- [p01_nMeetingsInOneRoom](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1#)
+- [p02_jobSequencing](https://practice.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1#)
+- [p03_fractionalKnapsack](https://practice.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1)
+- [p04_chooseAndSwap](https://practice.geeksforgeeks.org/problems/choose-and-swap0531/1#)
+- [p05_minimumPlatforms](https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1#)
+- [p06_minAndMaxCost](https://practice.geeksforgeeks.org/problems/shop-in-candy-store1145/1#)
+- [p07_maximizeSum](https://practice.geeksforgeeks.org/problems/maximize-sum-after-k-negations1149/1#)
+- [p08_chocolateDistribution](https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem3825/1)
+- [p09_defenceOfKingdom](https://www.spoj.com/problems/DEFKIN/)
+- [p10_minCostOfRopes](https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1#)
+- [p11_smallestNumber](https://practice.geeksforgeeks.org/problems/smallest-number5829/1)
+- [p12_breakingChocolate](https://www.spoj.com/problems/CHOCOLA/)
