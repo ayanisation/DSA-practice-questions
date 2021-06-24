@@ -104,3 +104,13 @@
 - [p10_minCostOfRopes](https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1#)
 - [p11_smallestNumber](https://practice.geeksforgeeks.org/problems/smallest-number5829/1)
 - [p12_breakingChocolate](https://www.spoj.com/problems/CHOCOLA/)
+- [p13_arrangingAmplifiers](https://www.spoj.com/problems/ARRANGE/)
+- [p14_pickingUpChicks](https://www.spoj.com/problems/GCJ101BB/)
+
+## Stacks_&_Queues
+
+- [p01_firstNonRepeatingChar](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1)
+- [p02_pageFaultInLRU](https://practice.geeksforgeeks.org/problems/page-faults-in-lru5603/1#)
+- [p03_parenthesisChecker](https://practice.geeksforgeeks.org/problems/parenthesis-checker2744/1)
+- [p04_reverseStringUsingStack](https://practice.geeksforgeeks.org/problems/reverse-a-string-using-stack/1#)
+- [p05_nextGreaterElement](https://practice.geeksforgeeks.org/problems/next-larger-element-1587115620/1)
