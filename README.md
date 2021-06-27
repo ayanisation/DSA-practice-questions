@@ -121,3 +121,8 @@
 - [p10_queueUsingTwoStacks](https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1)
 - [p11_reverseQueueRecursively](https://practice.geeksforgeeks.org/problems/queue-reversal/1#)
 - [p12_reverseFirstKElementsOfQueue](https://practice.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1#)
+- [p13_circularTour](https://practice.geeksforgeeks.org/problems/circular-tour/1)
+- [p14_rottenOranges](https://practice.geeksforgeeks.org/problems/rotten-oranges2536/1#)
+- [p15_distanceOfNearestCellWith1](https://practice.geeksforgeeks.org/problems/distance-of-nearest-cell-having-1-1587115620/1#)
+- [p16_firstNegativeInteger](https://practice.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1#)
+- [p17_minValueAfterKRemovals](https://practice.geeksforgeeks.org/problems/game-with-string4100/1#)
