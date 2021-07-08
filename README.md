@@ -126,3 +126,12 @@
 - [p15_distanceOfNearestCellWith1](https://practice.geeksforgeeks.org/problems/distance-of-nearest-cell-having-1-1587115620/1#)
 - [p16_firstNegativeInteger](https://practice.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1#)
 - [p17_minValueAfterKRemovals](https://practice.geeksforgeeks.org/problems/game-with-string4100/1#)
+
+## Dynamic_Programming
+
+- [p01_wineTrading](https://www.spoj.com/problems/GERGOVIA/)
+- [p02_0/1Knapsack](https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1#)
+- [p03_coinChange](https://practice.geeksforgeeks.org/problems/coin-change2448/1#)
+- [p04_nCr](https://practice.geeksforgeeks.org/problems/ncr1019/1#)
+- [p05_largestSumSubarray](https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1)
+- [p06_longestRepeatingSubsequence](https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence2004/1)
